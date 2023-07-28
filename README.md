@@ -1,2 +1,5 @@
 # mood_recognition
- Attempt to create my first nlp project
+ 
+Project for recognition mood of review.
+
+1. 'parsing_banki_ru.py' file is 
